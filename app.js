@@ -26,6 +26,13 @@ app.get('/', function (req, res) {
     console.log("Welcome to Mohali");
     console.log("Welcome to Mohali");
     console.log("Welcome to Chandigarh");
+    console.log("Welcome to Chandigarh");
+    console.log("Welcome to Chandigarh");
+    console.log("Welcome to Chandigarh");
+    console.log("Welcome to Chandigarh");
+    console.log("Welcome to Chandigarh");
+    console.log("Welcome to Chandigarh");
+
 
     
 });
